@@ -1,2 +1,2 @@
 #!/bin/bash
-node @greattt-details.js
+node scriptgreattt.js
