@@ -1,4 +1,3 @@
-
 echo "Composing a Big CSV"
 echo ""
  
