@@ -1,4 +1,5 @@
 #Team Watson Bash Script
+#! usr/bin/bash
 
 rm team_watson.csv
 Rscript  scriptparth.R >> 'team_watson.csv'
