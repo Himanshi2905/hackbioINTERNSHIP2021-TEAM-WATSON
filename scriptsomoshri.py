@@ -2,7 +2,7 @@ Name= "Somoshri Banerji"
 Email = "somoshrib.98@gmail.com"
 Slack = "@Somoshri"
 Biostack = "Transcriptomics"
-Twitter = "bsomoshri"
+Twitter = "@somoshri"
 
 def hammingDist(Slack, Twitter):
     i = 0
